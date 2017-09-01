@@ -1,5 +1,5 @@
 package com.chat.constants;
-
+//
 public class ServerConstants {
 	public static final String LOGIN_REQUEST="I want to login";
 	public static final String LOGIN_REPEAT="login repeat";
